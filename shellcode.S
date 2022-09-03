@@ -1,6 +1,6 @@
 #include <sys/syscall.h>
 
-#define STRING    "/usr/bin/unlinkA/home/student/grades.txtA"
+#define STRING    "/usr/bin/unlinkA/home/student/grades.txt"
 #define STRLEN    41
 #define ARGV    (STRLEN+1)
 #define ENVP    (ARGV+24)
